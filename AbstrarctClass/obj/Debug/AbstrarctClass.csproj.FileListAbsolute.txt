@@ -1,0 +1,12 @@
+C:\Users\vihro.DESKTOP-FDN7QFG\Desktop\I001-master\AbstrarctClass\bin\Debug\AbstrarctClass.exe.config
+C:\Users\vihro.DESKTOP-FDN7QFG\Desktop\I001-master\AbstrarctClass\bin\Debug\AbstrarctClass.exe
+C:\Users\vihro.DESKTOP-FDN7QFG\Desktop\I001-master\AbstrarctClass\bin\Debug\AbstrarctClass.pdb
+C:\Users\vihro.DESKTOP-FDN7QFG\Desktop\I001-master\AbstrarctClass\obj\Debug\AbstrarctClass.csprojAssemblyReference.cache
+C:\Users\vihro.DESKTOP-FDN7QFG\Desktop\I001-master\AbstrarctClass\obj\Debug\AbstrarctClass.FormClient.resources
+C:\Users\vihro.DESKTOP-FDN7QFG\Desktop\I001-master\AbstrarctClass\obj\Debug\AbstrarctClass.FormMain.resources
+C:\Users\vihro.DESKTOP-FDN7QFG\Desktop\I001-master\AbstrarctClass\obj\Debug\AbstrarctClass.FormProduct.resources
+C:\Users\vihro.DESKTOP-FDN7QFG\Desktop\I001-master\AbstrarctClass\obj\Debug\AbstrarctClass.Properties.Resources.resources
+C:\Users\vihro.DESKTOP-FDN7QFG\Desktop\I001-master\AbstrarctClass\obj\Debug\AbstrarctClass.csproj.GenerateResource.cache
+C:\Users\vihro.DESKTOP-FDN7QFG\Desktop\I001-master\AbstrarctClass\obj\Debug\AbstrarctClass.csproj.CoreCompileInputs.cache
+C:\Users\vihro.DESKTOP-FDN7QFG\Desktop\I001-master\AbstrarctClass\obj\Debug\AbstrarctClass.exe
+C:\Users\vihro.DESKTOP-FDN7QFG\Desktop\I001-master\AbstrarctClass\obj\Debug\AbstrarctClass.pdb
